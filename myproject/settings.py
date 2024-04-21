@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-yw069l^is8jtzuccj!$!hnr-oyi10ohguh^kfe49!am^m6@uie
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*', 'ecogrowersweb.onrender.com']
+
 
 
 # Application definition
